@@ -1,2 +1,20 @@
-# komik
-koleksi komik saya
+## Daftar Komik Minus
+- One Pieace            : 71 - Ongoing
+- Dear Boys Act II      : 13, 29
+- Dear Boys Act III     : 8, 13
+- Legenda Naga          : 5
+- Shaman King           : 16, 20
+- Tsubasa Premium       : 5 - Ongoing
+- Yu Gi Oh Premium      : 5 - Ongoing
+- Toriko                : 6 - Ongoing
+- Bakuman               : 11 - Ongoing
+- Nura                  : 13 - Ongoing
+- Code Breaker          : 3, 20 - Ongoing
+- Belzeebub             : 26 - Ongoing
+- Fairy Tail            : 14, 25 - Ongoing
+- Sket Dance            : 5 - Ongoing
+- Air Gear              : 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27 - End
+- BTOOM                 : 6 - Ongoing
+- Kungfu Boy Legend     : 18 - Ongoing
+- Assasin Class         : 3 - Ongoing
+- New Legenda Naga      : 11 - Ongoing
